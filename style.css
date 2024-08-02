@@ -1,0 +1,91 @@
+body{
+    margin: 100%;
+    padding: 100;
+    
+}
+
+header{
+     padding: 2px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    position: relative;
+background: saddlebrown;
+list-style: none;
+}
+
+header h1{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     background-repeat: initial;
+     color: gold;
+     text-decoration: none;
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+    text-align: right;
+    margin-right: 30px;
+    font-family: cursive;
+    padding: 10px;
+    font-size: 20px;
+}
+header nav a:hover{
+    color: white;
+    padding: 12px;
+}
+.cajaarriba{
+    background-color: orangered;
+    max-height: 500px;
+    
+}
+.cajamedia{
+    
+    height: 20px;
+    background-color: black;
+    border-radius: 0 0 50% 50%;
+    position: relative;
+    overflow: hidden;
+}
+main{
+   
+    padding: 200px;
+    border-bottom: 2px solid;
+}
+.text-initial
+{
+margin: -150px;
+margin-right: 50%;
+border: 1px solid;
+border-color: black;
+margin-bottom: -200px;
+border-radius: 10px;
+
+}
+.text-initial h1{
+    padding: 25px;
+    font-family: fantasy;
+    color: white;
+}
+.text-initial p{
+  font-style: italic;
+  font-weight: 100px;
+  padding: 25px;
+
+}
+.cajaabajo{
+    background-color: white;
+    padding: 50%;
+    max-height: 400px;
+}
+
+.dog-IMG{
+margin: 600px;
+margin-top: -250px;
+
+}
+section{
+    text-align: center;
+}
